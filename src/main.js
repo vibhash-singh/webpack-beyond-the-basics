@@ -1,3 +1,3 @@
 require("./main.css")
-
-alert("hello")
+require("./images/link.jpg")
+require("./index.html")
